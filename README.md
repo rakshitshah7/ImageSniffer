@@ -1,2 +1,2 @@
 # Image Sniffer - Sniffs images on the network.
-Please go through "Walkthrough- Image Sniffer.docx"
+Please go through "Walkthrough of Project.docx"
